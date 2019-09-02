@@ -1,4 +1,4 @@
-# About Your Jekyll-based Blog Hosted on GitHub Pages
+# About 
 
-This repository belongs to ... and contains weekly blogs written by ... for a course in Open Source software development.
+This repository belongs to Jessica Adjei and contains weekly blogs written for a course in Open Source software development.
 you.
