@@ -7,7 +7,7 @@ permalink: /about/
 
 ![Sailor Moon](https://media3.giphy.com/media/10IIs7CN98Skw0/giphy.gif)
 
-Welcome to my blog.
+### Welcome To My Blog 💖
 I am currently a senior at Hunter College, studying Robotics and Artificial Intelligence.
 
 
