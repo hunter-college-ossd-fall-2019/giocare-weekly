@@ -5,12 +5,12 @@ permalink: /about/
 ---
 
 
-### More Information
-
 ![Sailor Moon](https://media3.giphy.com/media/10IIs7CN98Skw0/giphy.gif)
 
+Welcome to my blog.
+I am currently a senior at Hunter College, studying Robotics and Artificial Intelligence.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I am interested in UI/UX, Web Development, Game Design, Hardware/Wearable Tech and 3D printing.
