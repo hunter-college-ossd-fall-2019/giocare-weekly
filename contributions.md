@@ -19,6 +19,6 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | link to my contribution    | Blog Edit    |   I fixed a broken link.    |
+|  2   | https://www.openstreetmap.org/user/giocare/history#map=18/40.81326/-73.94920    | Blog Edit    |   I removed a restaurant, added a supermarket and added a details for a bus stop   |
 |     |     |     |      |
 |     |     |     |      |
