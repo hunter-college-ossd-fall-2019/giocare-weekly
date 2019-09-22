@@ -21,4 +21,4 @@ Replace the first row below with your contribution.
 |---|:---|:---|:---|
 |  2   | https://www.openstreetmap.org/changeset/74403992 | Blog Edit | I removed a restaurant, added a supermarket and added a details for a bus stop   |
 |  4  |  https://www.openstreetmap.org/changeset/74762851   |     |  Added Winery  |
-|     |     |     |      |
+|  4  |  https://www.openstreetmap.org/changeset/74762915   |     |   Added Fast Food Restaurant   |
