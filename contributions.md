@@ -23,3 +23,5 @@ Replace the first row below with your contribution.
 |  4  |  [Link](https://www.openstreetmap.org/changeset/74762851)   |  OpenStreet Map feature   |  Added Winery  |
 |  4  |  [Link](https://www.openstreetmap.org/changeset/74762915)   |   OpenStreet Map feature  |   Added Fast Food Restaurant   |
 |  5  |  [Link](https://www.openstreetmap.org/changeset/75124116#map=19/40.81042/-73.95243)  |   OpenStreet Map feature  |  I noticed that the local CVS in my neighborhood was missing. So I deleted the 4 buildings that were previously there and added CVS. In addition, I included the store hours and payment methods   |
+|  7  |  [Link](https://github.com/vinitshahdeo/inspirational-quotes/pull/340)   |  Added Inspiration Quote   |  HacktoberFest  |
+|  7  |  [Link](https://github.com/NikhilNamal17/popular-movie-quotes/pull/213)   |  Added Movie Quote   |  HacktoberFest  |
