@@ -30,6 +30,7 @@ Replace the first row below with your contribution.
 |  8  |  [Link](https://www.openstreetmap.org/changeset/76024951)   |   OpenStreet Map feature  |  Added a local Insomnia Cookies  |
 |  8  |  [Link](https://www.openstreetmap.org/changeset/76025090)   |   OpenStreet Map feature  |  Added a local Winery  |
 |  8  |  [Link](https://www.openstreetmap.org/changeset/76025541)   |   OpenStreet Map feature  |  Added a local restaurant  |
+|  8  |  [Link](https://www.openstreetmap.org/changeset/76025763)   |   OpenStreet Map feature  |  The McDonald's in my area recently closed. So I removed the information and downgraded the building |
 
 
 
