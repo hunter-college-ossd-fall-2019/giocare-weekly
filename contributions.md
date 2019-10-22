@@ -31,6 +31,7 @@ Replace the first row below with your contribution.
 |  8  |  [Link](https://www.openstreetmap.org/changeset/76025090)   |   OpenStreet Map feature  |  Added a local Winery  |
 |  8  |  [Link](https://www.openstreetmap.org/changeset/76025541)   |   OpenStreet Map feature  |  Added a local restaurant  |
 |  8  |  [Link](https://www.openstreetmap.org/changeset/76025763)   |   OpenStreet Map feature  |  The McDonald's in my area recently closed. So I removed the information and downgraded the building |
+|  8  |  [Link](https://en.wikipedia.org/w/index.php?title=Sleeping_at_Last&diff=prev&oldid=922440188)   |   Wikipedia  | Modify Sleeping At Last's Discography to include a newly released song |
 
 
 
