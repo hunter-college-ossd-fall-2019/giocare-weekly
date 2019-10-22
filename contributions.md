@@ -29,7 +29,7 @@ Replace the first row below with your contribution.
 |  8  |  [Link](https://www.openstreetmap.org/changeset/76024790)   |   OpenStreet Map feature  |  Added a local Shake Shack  |
 |  8  |  [Link](https://www.openstreetmap.org/changeset/76024951)   |   OpenStreet Map feature  |  Added a local Insomnia Cookies  |
 |  8  |  [Link](https://www.openstreetmap.org/changeset/76025090)   |   OpenStreet Map feature  |  Added a local Winery  |
-
+|  8  |  [Link](https://www.openstreetmap.org/changeset/76025541)   |   OpenStreet Map feature  |  Added a local restaurant  |
 
 
 
