@@ -27,6 +27,7 @@ Replace the first row below with your contribution.
 |  7  |  [Link](https://github.com/NikhilNamal17/popular-movie-quotes/pull/213)   |  HacktoberFest  | Added Movie Quote   |
 |  8  |  [Link](https://www.openstreetmap.org/changeset/76024428)   |   OpenStreet Map feature  |  I added a clinic in my area and included the hours of operation  |
 |  8  |  [Link](https://www.openstreetmap.org/changeset/76024790)   |   OpenStreet Map feature  |  Added a local Shake Shack  |
+|  8  |  [Link](https://www.openstreetmap.org/changeset/76024951)   |   OpenStreet Map feature  |  Added a local Insomnia Cookies  |
 
 
 
