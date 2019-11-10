@@ -31,10 +31,10 @@ Replace the first row below with your contribution.
 |  8  |  [https://www.openstreetmap.org/changeset/76025090](https://www.openstreetmap.org/changeset/76025090)   |   OpenStreet Map feature  |  Added a local Winery  |
 |  8  |  [https://www.openstreetmap.org/changeset/76025541](https://www.openstreetmap.org/changeset/76025541)   |   OpenStreet Map feature  |  Added a local restaurant  |
 |  8  |  [https://www.openstreetmap.org/changeset/76025763](https://www.openstreetmap.org/changeset/76025763)   |   OpenStreet Map feature  |  The McDonald's in my area recently closed. So I removed the information and downgraded the building |
-|  8  |  [https://en.wikipedia.org/w/index.php?title=Sleeping_at_Last&diff=prev&oldid=922440188](https://en.wikipedia.org/w/index.php?title=Sleeping_at_Last&diff=prev&oldid=922440188)   |   Wikipedia  | Modify Sleeping At Last's Discography to include a newly released song |
-|  10 |  [https://en.wikipedia.org/w/index.php?title=Refugees_in_India&diff=prev&oldid=924665749](https://en.wikipedia.org/w/index.php?title=Refugees_in_India&diff=prev&oldid=924665749)   |   Wikipedia  | Fixed Spelling + Grammar Issues On Refugees In India Page |
-|  11 |  [Concerns and Controversies at the 2020 Summer Olympics](https://en.wikipedia.org/w/index.php?title=Concerns_and_controversies_at_the_2020_Summer_Olympics&diff=prev&oldid=925374091)   |   Wikipedia  | Fixed Spelling Mistakes Issues On The Page "Concerns and Controversies at the 2020 Summer Olympics" |
-|  11 |  [Riri_(Japanese_singer)](https://en.wikipedia.org/w/index.php?title=Riri_(Japanese_singer)&diff=prev&oldid=925439960)   |   Wikipedia  | Added Peak Position + Source On The Page "RiRi (Japanese Singer)" |
+|  8  |  [Sleeping At Last](https://en.wikipedia.org/w/index.php?title=Sleeping_at_Last&diff=prev&oldid=922440188)   |   Wikipedia Edit  | Added A Newly Released Song To Discography |
+|  10 |  [Refugees In India](https://en.wikipedia.org/w/index.php?title=Refugees_in_India&diff=prev&oldid=924665749)   |   Wikipedia Edit  | Fixed Spelling + Grammar Issues |
+|  11 |  [Concerns and Controversies at the 2020 Summer Olympics](https://en.wikipedia.org/w/index.php?title=Concerns_and_controversies_at_the_2020_Summer_Olympics&diff=prev&oldid=925374091)   |   Wikipedia Edit | Fixed Spelling Mistakes Issues |
+|  11 |  [Riri_(Japanese_singer)](https://en.wikipedia.org/w/index.php?title=Riri_(Japanese_singer)&diff=prev&oldid=925439960)   |   Wikipedia Edit | Added Peak Position + Source |
 
 
 
