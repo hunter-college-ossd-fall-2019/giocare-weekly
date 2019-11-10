@@ -34,6 +34,7 @@ Replace the first row below with your contribution.
 |  8  |  [https://en.wikipedia.org/w/index.php?title=Sleeping_at_Last&diff=prev&oldid=922440188](https://en.wikipedia.org/w/index.php?title=Sleeping_at_Last&diff=prev&oldid=922440188)   |   Wikipedia  | Modify Sleeping At Last's Discography to include a newly released song |
 |  10 |  [https://en.wikipedia.org/w/index.php?title=Refugees_in_India&diff=prev&oldid=924665749](https://en.wikipedia.org/w/index.php?title=Refugees_in_India&diff=prev&oldid=924665749)   |   Wikipedia  | Fixed Spelling + Grammar Issues On Refugees In India Page |
 |  11 |  [https://en.wikipedia.org/w/index.php?title=Concerns_and_controversies_at_the_2020_Summer_Olympics&diff=prev&oldid=925374091](https://en.wikipedia.org/w/index.php?title=Concerns_and_controversies_at_the_2020_Summer_Olympics&diff=prev&oldid=925374091)   |   Wikipedia  | Fixed Spelling Mistakes Issues On The Page "Concerns and Controversies at the 2020 Summer Olympics" |
+|  11 |  [https://en.wikipedia.org/w/index.php?title=Riri_(Japanese_singer)&diff=prev&oldid=925439960](https://en.wikipedia.org/w/index.php?title=Riri_(Japanese_singer)&diff=prev&oldid=925439960)   |   Wikipedia  | Added Peak Position + Source On The Page "RiRi (Japanese Singer)" |
 
 
 
