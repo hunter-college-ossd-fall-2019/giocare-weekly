@@ -36,6 +36,8 @@ Replace the first row below with your contribution.
 |  11 |  [Concerns and Controversies at the 2020 Summer Olympics](https://en.wikipedia.org/w/index.php?title=Concerns_and_controversies_at_the_2020_Summer_Olympics&diff=prev&oldid=925374091)   |   Wikipedia Edit | Fixed Spelling Mistakes Issues |
 |  11 |  [Riri_(Japanese_singer)](https://en.wikipedia.org/w/index.php?title=Riri_(Japanese_singer)&diff=prev&oldid=925439960)   |   Wikipedia Edit | Added Peak Position + Source |
 |  12 |  [(G)I-dle](https://en.wikipedia.org/w/index.php?title=(G)I-dle&diff=prev&oldid=926702099)   |   Wikipedia Edit | Fixed Grammar Issue |
+|  12 |  [Bahjat (singer)](https://en.wikipedia.org/w/index.php?title=Bahjat_(singer)&diff=prev&oldid=926703945)   |   Wikipedia Edit | Added New Song |
+
 
 
 
